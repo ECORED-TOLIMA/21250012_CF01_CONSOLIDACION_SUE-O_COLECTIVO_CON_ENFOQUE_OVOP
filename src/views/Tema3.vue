@@ -33,14 +33,14 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Antecedentes
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-8.order-lg-1.order-2(data-aos="fade-right")
         p La estrategia OVOP Colombia se consolidó a partir de la implementación del proyecto #[strong Un Pueblo, Un Producto (OVOP) Colombia], cuyo propósito fue fortalecer la cohesión social y la autonomía económica de las comunidades donde se desarrollaban iniciativas OVOP, con el fin de revitalizar los territorios y contribuir a la construcción de paz en el país. Este proyecto, ejecutado entre 2014 y 2018, permitió recopilar aprendizajes significativos, así como identificar lecciones de éxito y desafíos derivados de las doce experiencias priorizadas en Colombia.
-        .BG02.p-4
+        .BG02.p-3
           .row.justify-content-center
-            .col-lg-4.col-sm-6.col-8.mb-lg-0.mb-4
+            .col-lg-3.col-sm-4.col-6.mb-lg-0.mb-4
               img(src='@/assets/curso/tema3/img03.svg' alt="Imagen decorativa")
-            .col-lg-8
+            .col-lg-9
               p.mb-0 Los conocimientos obtenidos durante este proceso fueron incorporados en la propuesta metodológica #[strong Mi Pueblo, Mi Producto, Mi Orgullo], que constituye la base conceptual y operativa del enfoque OVOP Colombia. Este marco metodológico recoge los elementos más relevantes de dichas experiencias, adaptándolos a la realidad territorial y promoviendo procesos de desarrollo local basados en la identidad, la organización comunitaria y las capacidades propias de cada territorio.
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema3/img04.png' alt="Imagen decorativa")
@@ -188,7 +188,7 @@
                 td Idear el producto.
               tr(data-aos="fade-right")
                 td 2-3
-                td Analizar los productos potenciales desde marketing y participación y seleccionar el “Mi Producto”.
+                td Analizar los productos potenciales desde #[i marketing] y participación y seleccionar el “Mi Producto”.
               tr(data-aos="fade-right")
                 td 2-4
                 td Formar organizaciones/redes de negocio colectivo para alcanzar el “Sueño Colectivo”.

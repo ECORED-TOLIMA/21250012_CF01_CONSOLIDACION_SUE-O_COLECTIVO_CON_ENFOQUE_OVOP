@@ -66,7 +66,7 @@
                 | Tiene visión a largo plazo sobre el territorio y sus potencialidades.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Desarrolla estrategias para posicionar productos o servicios (marketing territorial).
+                | Desarrolla estrategias para posicionar productos o servicios (#[i marketing] territorial).
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
                 | Diseña estrategias, administra recursos y gestiona alternativas para superar obstáculos.

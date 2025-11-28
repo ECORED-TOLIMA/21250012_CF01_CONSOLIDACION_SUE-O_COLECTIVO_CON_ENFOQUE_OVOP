@@ -130,7 +130,7 @@
               | La educación y la formación son pilares del movimiento.
             li(style="margin-bottom: 2px")
               i.fas.fa-circle-notch
-              | Se promueve el aprendizaje práctico (learning by doing), la capacitación técnica y el intercambio de conocimientos.
+              | Se promueve el aprendizaje práctico (#[i learning by doing]), la capacitación técnica y el intercambio de conocimientos.
             li(style="margin-bottom: 2px")
               i.fas.fa-circle-notch
               | Se valora la transferencia de saberes intergeneracionales.

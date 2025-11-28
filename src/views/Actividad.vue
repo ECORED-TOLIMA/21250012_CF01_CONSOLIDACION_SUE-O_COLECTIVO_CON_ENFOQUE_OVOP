@@ -16,7 +16,7 @@ export default {
       tema: '¿Qué entendemos por OVOP?',
       titulo: 'Cuestionario',
       introduccion:
-        'Evaluar la comprensión de los aprendices sobre conceptos clave de OVOP, desarrollo endógeno, territorio, fuentes de información, mapa de actores, cartografía social, mediante preguntas de verdadero o falso para reforzar el aprendizaje.',
+        'Objetivo, evaluar la comprensión de los aprendices sobre conceptos clave de OVOP, desarrollo endógeno, territorio, fuentes de información, mapa de actores, cartografía social, mediante preguntas de verdadero o falso para reforzar el aprendizaje.',
       barajarPreguntas: true,
       preguntas: [
         {

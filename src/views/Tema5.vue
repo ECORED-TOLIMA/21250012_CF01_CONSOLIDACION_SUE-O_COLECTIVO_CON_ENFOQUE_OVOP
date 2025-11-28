@@ -160,10 +160,10 @@
               ul.lista-ul--color.mb-0
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
-                  | #[strong Estructurada]: con preguntas predefinidas.
+                  p.mb-0 #[strong Estructurada]: con preguntas predefinidas.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
-                  | #[strong Semiestructurada]: con pautas generales que permiten mayor libertad al entrevistado.
+                  p.mb-0 #[strong Semiestructurada]: con pautas generales que permiten mayor libertad al entrevistado.
       .col-lg-6.mb-4(data-aos="fade-right")
         .BG01.p-4.h-100
           .row.justify-content-center
