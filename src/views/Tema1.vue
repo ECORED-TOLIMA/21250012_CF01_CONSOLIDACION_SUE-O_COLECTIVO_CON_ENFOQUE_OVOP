@@ -14,7 +14,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Este enfoque parte de la idea de que el desarrollo no se impone desde afuera; por el contrario, se construye desde los actores locales, sus dinámicas, sus conocimientos y sus formas de organización. Su énfasis está en generar condiciones que impulsen procesos sostenibles, equitativos y adaptados a la realidad de cada comunidad.
+        figure
+          img(src='@/assets/curso/tema1/img01.svg' alt="Imagen decorativa" style="max-width:75px")
+          br
+          | Este enfoque parte de la idea de que el desarrollo no se impone desde afuera; por el contrario, se construye desde los actores locales, sus dinámicas, sus conocimientos y sus formas de organización. Su énfasis está en generar condiciones que impulsen procesos sostenibles, equitativos y adaptados a la realidad de cada comunidad.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -31,25 +34,25 @@
       .col-lg-3.col-sm-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
-            .col-lg-4.col-6
+            .col-sm-4.col-3
               img(src='@/assets/curso/tema1/img03.svg' alt="Imagen decorativa")
           h5.mb-0 Reconocer e identificar necesidades y potencialidades reales de la comunidad.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
-            .col-lg-4.col-6
+            .col-sm-4.col-3
               img(src='@/assets/curso/tema1/img04.svg' alt="Imagen decorativa")
           h5.mb-0 Integrar de manera participativa a los ciudadanos en la identificación de oportunidades.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
-            .col-lg-4.col-6
+            .col-sm-4.col-3
               img(src='@/assets/curso/tema1/img05.svg' alt="Imagen decorativa")
           h5.mb-0 Fortalecer la participación en los procesos de toma de decisiones.
       .col-lg-3.col-sm-6.mb-lg-0.mb-4
         .tarjeta.color-primario.p-4.h-100
           .row.mb-4
-            .col-lg-4.col-6
+            .col-sm-4.col-3
               img(src='@/assets/curso/tema1/img06.svg' alt="Imagen decorativa")
           h5.mb-0 Promover conciencia sobre un desarrollo sostenible y respetuoso del medio ambiente.
 
@@ -70,7 +73,7 @@
         p La importancia del desarrollo endógeno radica en su capacidad para fortalecer la autonomía territorial y potenciar los recursos ya existentes. Este enfoque permite que las comunidades se conviertan en protagonistas de su propio proceso de transformación, ampliando su capacidad de gestión y fortaleciendo la cohesión social. Desde esta perspectiva, su relevancia se refleja en aspectos como:
         .tarjeta.BG01.p-4
           .row.justify-content-center.align-items-center
-            .col-lg-7.order-lg-1.order-2
+            .col-lg-8.order-lg-1.order-2
               ul.lista-ul--color.mb-0
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
@@ -87,7 +90,7 @@
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
                   | Contribuye a reducir desigualdades y a mejorar la calidad de vida.
-            .col-lg-5.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
+            .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4
               img(src='@/assets/curso/tema1/img10.svg' alt="Imagen decorativa")
 
     separador

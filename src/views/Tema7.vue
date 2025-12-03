@@ -7,17 +7,19 @@
         span 7
       h1 Liderazgo colectivo
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.mb-5
       .col-lg-9.order-lg-1.order-2.px-0(data-aos="fade-right")
-        .BG02.p-4
-          .row.justify-content-center
+        .BG02.p-4.h-100
+          .row.justify-content-center.align-items-center
             .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4
               img(src='@/assets/curso/tema7/img01.svg' alt="Imagen decorativa")
             .col-lg-10
               p.mb-0 El liderazgo colectivo es un componente fundamental en los procesos de desarrollo comunitario. En un territorio pueden existir uno o varios líderes con distintos niveles de influencia; sin embargo, la estrategia OVOP Colombia promueve que el liderazgo sea compartido y que diversas personas asuman responsabilidades según sus capacidades, movilizando a la comunidad hacia una visión construida de manera conjunta.
       .col-lg-2.col-sm-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4.px-0(data-aos="fade-left")
-        .BG12.p-2
-          img.mx-auto(src='@/assets/curso/tema7/img02.svg' alt="Imagen decorativa")
+        .BG12.p-2.h-100
+          .row.justify-content-center
+            .col-10
+              img.mx-auto(src='@/assets/curso/tema7/img02.svg' alt="Imagen decorativa")
 
     separador
     #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -102,10 +104,12 @@
     
     .row.justify-content-center.mb-4
       .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-        .BG12.p-2
-          img(src='@/assets/curso/tema7/img05.svg' alt="Imagen decorativa")
+        .BG12.p-2.h-100
+          .row.justify-content-center
+            .col-10
+              img(src='@/assets/curso/tema7/img05.svg' alt="Imagen decorativa")
       .col-lg-10(data-aos="fade-left")
-        .BG01.p-4
+        .BG01.p-4.h-100
           p.mb-0 El liderazgo dentro del enfoque OVOP no se limita a ejercer influencia, sino que implica encarnar una serie de cualidades que permiten movilizar a la comunidad hacia una visión compartida. Estas características orientan el actuar de quienes asumen responsabilidades en los procesos territoriales y garantizan que el liderazgo se ejerza de manera ética, participativa y coherente con los principios del desarrollo incluyente. A continuación, se presentan las principales características que distinguen a un líder OVOP:
     
     .row

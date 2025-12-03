@@ -9,10 +9,12 @@
     
     .row.justify-content-center.mb-4
       .col-lg-3.col-sm-4.col-6.mb-lg-0.mb-4.px-0(data-aos="fade-right")
-        .BG09.p-2
-          img(src='@/assets/curso/tema8/img01.svg' alt="Imagen decorativa")
+        .BG09.p-2.h-100
+          .row.justify-content-center
+            .col-10
+              img(src='@/assets/curso/tema8/img01.svg' alt="Imagen decorativa")
       .col-lg-9.px-0(data-aos="fade-left")
-        .BG01.p-4
+        .BG01.p-4.h-100
           p.mb-0 La cartografía social es una herramienta participativa que permite construir conocimiento colectivo sobre un territorio. Facilita que una comunidad se acerque a su espacio geográfico, social, económico, histórico y cultural a través de la elaboración colaborativa de mapas. Este proceso promueve el diálogo, evidencia distintos saberes y permite construir una visión compartida del territorio, integrando perspectivas diversas para fortalecer la reflexión y la acción colectiva.
 
     separador
@@ -35,31 +37,31 @@
     .BGIMG04.p-4.mb-4(data-aos="zoom-in")
       SlyderA.color-acento-botones(tipo="b")
         .row.justify-content-center
-          .col-lg-7.order-lg-1.order-2
+          .col-lg-6.order-lg-1.order-2
             .h4 Definir el tipo de mapa según las necesidades identificadas.
             p.mb-0 La cartografía debe atender una intencionalidad concreta. Es necesario concertar previamente el propósito del mapa: diagnóstico, profundización temática, identificación de conflictos, reconocimiento de potencialidades o apoyo a procesos organizativos.
           .col-lg-5.col-sm-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img04.jpg' alt="Imagen decorativa")
         .row.justify-content-center 
-          .col-lg-7.order-lg-1.order-2
+          .col-lg-6.order-lg-1.order-2
             .h4 Formular las preguntas que se quieren resolver.
             p.mb-0 La preparación de preguntas claras orienta el trabajo colectivo. Estas deben ajustarse a la información mínima requerida, al tiempo disponible y a las características del grupo participante. Quienes orientan la actividad se encargan de guiar la reflexión mediante intervenciones cortas y facilitar la creación de símbolos representativos.
           .col-lg-5.col-sm-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img05.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-7.order-lg-1.order-2
+          .col-lg-6.order-lg-1.order-2
             .h4 Elaborar el mapa de manera colectiva.
             p.mb-0 La cantidad de participantes dependerá de la dinámica del grupo y del contexto. Se recomienda trabajar alrededor de una superficie amplia (mesa o suelo) que facilite el diálogo horizontal y la interacción entre los participantes.
           .col-lg-5.col-sm-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img06.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-7.order-lg-1.order-2
+          .col-lg-6.order-lg-1.order-2
             .h4 Registrar las conversaciones y reflexiones generadas durante el proceso.
             p.mb-0 Cada grupo debe contar con un moderador y un relator responsables de recoger la memoria de la actividad. Las discusiones y acuerdos reflejan la diversidad de percepciones presentes en el territorio, por lo que su registro es fundamental.
           .col-lg-5.col-sm-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema8/img07.jpg' alt="Imagen decorativa")
         .row.justify-content-center
-          .col-lg-7.order-lg-1.order-2
+          .col-lg-6.order-lg-1.order-2
             .h4 Socializar el mapa y las memorias.
             p.mb-0 En una plenaria final se presentan, discuten y afinan los mapas elaborados. Este espacio permite integrar las perspectivas individuales y colectivas, validar los hallazgos y fortalecer la construcción de conocimiento comunitario.
           .col-lg-5.col-sm-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -67,10 +69,10 @@
 
     .row.justify-content-center.mb-4
       .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4.px-0(data-aos="fade-right")
-        .BG09.px-2
+        .BG09.p-2.h-100
           img(src='@/assets/curso/tema8/img09.svg' alt="Imagen decorativa")
       .col-lg-8.px-0(data-aos="fade-left")
-        .BG11.p-4
+        .BG11.p-4.h-100
           .h5.mb-0 La cartografía social es una propuesta conceptual y metodológica que permite aproximarse al territorio y construir un conocimiento integral de este mediante el uso de instrumentos técnicos y vivenciales. Se trata de una herramienta de planificación y transformación social que promueve la participación activa y el compromiso comunitario, facilitando la elaboración colectiva de conocimiento y posibilitando la transformación del territorio a partir de la reflexión compartida y la acción organizada.
 
 </template>

@@ -55,9 +55,10 @@
     
     .row.justify-content-center.mb-5
       .col-lg-5.px-0.d-lg-flex.d-none(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img05.jpg' alt="Imagen decorativa")
+        figure.h-100
+          img(src='@/assets/curso/tema2/img05.jpg' alt="Imagen decorativa")
       .col-lg-7.px-lg-0(data-aos="fade-left")
-        .BG07.p-4
+        .BG07.p-4.h-100
           .row.mb-4
             .col-lg-2.col-3
               img(src='@/assets/curso/tema2/img06.svg' alt="Imagen decorativa")
@@ -103,7 +104,7 @@
         img(src='@/assets/curso/tema2/img11.png' alt="Imagen decorativa")
       .col-lg-9(data-aos="fade-left")
         p Cada territorio identifica un producto, servicio o experiencia representativa que refleja su cultura, identidad y ventajas comparativas. El enfoque OVOP resalta la importancia de mejorar la calidad, innovar y agregar valor a los productos sin perder su autenticidad. Estos pueden ser artesanales, agrícolas, gastronómicos, turísticos o culturales, y constituyen la base para fortalecer el reconocimiento y la proyección territorial.
-        .BG01.p-4
+        .BG01.p-3
           ul.lista-ul--color.mb-0
             li(style="margin-bottom: 2px")
               i.fas.fa-circle-notch
@@ -130,7 +131,7 @@
               | La educación y la formación son pilares del movimiento.
             li(style="margin-bottom: 2px")
               i.fas.fa-circle-notch
-              | Se promueve el aprendizaje práctico (#[i learning by doing]), la capacitación técnica y el intercambio de conocimientos.
+              p.mb-0 Se promueve el aprendizaje práctico (#[i learning by doing]), la capacitación técnica y el intercambio de conocimientos.
             li(style="margin-bottom: 2px")
               i.fas.fa-circle-notch
               | Se valora la transferencia de saberes intergeneracionales.
@@ -171,8 +172,8 @@
         img(src='@/assets/curso/tema2/img16.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p La sostenibilidad en OVOP se concibe desde una perspectiva integral que articula las dimensiones económica, social, cultural y ambiental del desarrollo. Este enfoque promueve prácticas productivas responsables con el ambiente y respetuosas de la cultura local, garantizando que los beneficios generados por los procesos sean duraderos, inclusivos y coherentes con las necesidades del territorio.
-        .tarjeta.BG01.p-4
-          .row.justify-content-center
+        .tarjeta.BG01.p-3
+          .row.justify-content-center.align-items-center
             .col-lg-2.col-4.mb-lg-0.mb-4
               img(src='@/assets/curso/tema2/img17.svg' alt="Imagen decorativa")
             .col-lg-10

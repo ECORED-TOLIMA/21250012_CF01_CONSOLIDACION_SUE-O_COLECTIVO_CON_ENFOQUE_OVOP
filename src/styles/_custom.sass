@@ -128,3 +128,51 @@
 .tarjeta--boton.color-acento-botones:hover 
   background-color: #C5CBBD
 
+.pasos-b__header__btn--right, .pasos-b__header__btn--left
+  background-color: #FAA159
+
+.crd
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #FEE3CD
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: #C5CBBD
+      .bottomCircle
+        &::before
+          background-color: #405425
+      
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #FAA159
+    border-radius: 999px
+  
+.img90
+  width: 90px
+
+.linea-tiempo-d .tarjeta
+  background-color: #C5CBBD
+
+.linea-tiempo-d__item__number
+  background-color: #FAA159
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
+  background-color: #F3F9FF
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  border-radius: 5px 0
+
+.linea-tiempo-d__item__content__slot
+  border-radius: 0 5px

@@ -36,25 +36,22 @@
   
     .row.justify-content-center.mb-5
       .col-lg-4.col-sm-6.mb-lg-0.mb-4(data-aos="fade-right")
-        .tarjeta--boton.color-acento-botones.p-4.h-100
-          .row.justify-content-center.mb-4 
-            .col-7
-              figure
-                img(src='@/assets/curso/tema5/img04.svg', alt="Imagen decorativa")
+        .crd.crd--grayGrad
+          .bottomCircle.mb-4
+            figure
+              img(src='@/assets/curso/tema5/img04.svg', alt="Imagen decorativa").img90.m-auto
           p.mb-0 #[strong Fuentes primarias]: corresponden a los testimonios o materiales más cercanos al hecho que se investiga, con la menor cantidad posible de intermediación. Por ejemplo, testigos directos de un acontecimiento o documentos producidos en el momento en que ocurrió un hecho histórico.
       .col-lg-4.col-sm-6.mb-lg-0.mb-4(data-aos="flip-up")
-        .tarjeta--boton.color-acento-botones.p-4.h-100
-          .row.justify-content-center.mb-4 
-            .col-7
-              figure
-                img(src='@/assets/curso/tema5/img05.svg', alt="Imagen decorativa")
+        .crd.crd--grayGrad
+          .bottomCircle.mb-4
+            figure
+              img(src='@/assets/curso/tema5/img05.svg', alt="Imagen decorativa").img90.m-auto
           p.mb-0 #[strong Fuentes secundarias]: se basan en las fuentes primarias para analizarlas, interpretarlas, sintetizarlas o evaluarlas. Incluyen textos, informes o libros elaborados posteriormente y que reordenan o explican los materiales originales.
       .col-lg-4.col-sm-6.mb-lg-0.mb-4(data-aos="fade-left")
-        .tarjeta--boton.color-acento-botones.p-4.h-100
-          .row.justify-content-center.mb-4 
-            .col-7
-              figure
-                img(src='@/assets/curso/tema5/img06.svg', alt="Imagen decorativa")
+        .crd.crd--grayGrad
+          .bottomCircle.mb-4
+            figure
+              img(src='@/assets/curso/tema5/img06.svg', alt="Imagen decorativa").img90.m-auto
           p.mb-0 #[strong Fuentes terciarias]: recopilan, organizan y comentan fuentes primarias y secundarias. Suelen presentarse como archivos, manuales, catálogos, enciclopedias o bases de datos que integran testimonios e interpretaciones previas.
 
     separador
@@ -193,10 +190,10 @@
 
     .row.justify-content-center.mb-5
       .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4.px-0(data-aos="fade-right")
-        .BG09.px-2
+        .BG09.px-2.h-100
           img(src='@/assets/curso/tema5/img12.svg' alt="Imagen decorativa")
       .col-lg-8.px-0(data-aos="fade-left")
-        .BG11.p-4
+        .BG11.p-4.h-100
           .h5.mb-0 Se puede considerar que la información es relevante sólo si nos permite tomar decisiones significativas para realizar cambios. Necesariamente estos deben estar acorde a la determinación de necesidades y prioridades.
 
 </template>

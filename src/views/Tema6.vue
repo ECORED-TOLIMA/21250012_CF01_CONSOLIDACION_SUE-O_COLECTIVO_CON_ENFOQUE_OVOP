@@ -9,10 +9,12 @@
     
     .row.justify-content-center.mb-4
       .col-lg-3.col-sm-4.col-6.mb-lg-0.mb-4(data-aos="fade-right")
-        .BG11.p-2
-          img(src='@/assets/curso/tema6/img01.svg' alt="Imagen decorativa")
+        .BG11.p-2.h-100
+          .row.justify-content-center
+            .col-xxl-6.col-xl-8.col-10
+              img(src='@/assets/curso/tema6/img01.svg' alt="Imagen decorativa").m-auto
       .col-lg-9(data-aos="fade-left")
-        .BG01.p-4
+        .BG01.p-4.h-100
           p.mb-0 El mapa de actores es una herramienta que permite identificar a los actores presentes en un territorio, reconocer sus acciones, comprender sus intereses y analizar los objetivos que guían su presencia en dicho espacio. Esta herramienta facilita la lectura del entorno social, pues permite reconocer alianzas, conflictos, portavoces autorizados y dinámicas de poder que influyen directamente en los procesos de intervención. (Ceballos, 2004; Pozo-Solis, 2007)
 
     separador
@@ -31,10 +33,12 @@
     
     .row.justify-content-center.mb-4
       .col-lg-2.col-sm-3.col-4.mb-lg-0.mb-4(data-aos="fade-right")
-        .BG12.p-2
-          img(src='@/assets/curso/tema6/img03.svg' alt="Imagen decorativa")
+        .BG12.p-2.h-100
+          .row.justify-content-center
+            .col-xl-8.col-10
+              img(src='@/assets/curso/tema6/img03.svg' alt="Imagen decorativa").m-auto
       .col-lg-8(data-aos="fade-left")
-        .BG01.p-4
+        .BG01.p-4.h-100
           p.mb-0 En el mapeo de actores es fundamental identificar los roles y los niveles de poder de los actores sociales más relevantes. Reconocer estas dinámicas permite comprender las relaciones de influencia, cooperación o conflicto dentro del territorio y facilita una adecuada toma de decisiones en los procesos de intervención.
 
     separador

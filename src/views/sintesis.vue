@@ -8,7 +8,7 @@
     p.mb-5 En conjunto, estas herramientas fortalecen la planificación territorial, la participación comunitaria, la toma de decisiones informada y la puesta en marcha de iniciativas de desarrollo local incluyente .  
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="Texto alternativo: La síntesis del componente formativo, se presenta organizada en los principales temas y subtemas: el enfoque Mi Pueblo, Mi Producto, Mi Orgullo – OVOP Colombia; el concepto de territorio y sus dimensiones; las fuentes de información y sus criterios de evaluación; el mapa de actores y sus elementos; el liderazgo colectivo, sus tipos y las características del líder; y la cartografía social con sus pasos de elaboración, integrando todos los contenidos en una estructura visual jerárquica.")
       .col-auto
