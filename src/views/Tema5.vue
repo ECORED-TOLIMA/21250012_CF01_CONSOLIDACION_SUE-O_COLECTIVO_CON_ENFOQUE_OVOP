@@ -67,7 +67,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
-        LineaTiempoD.color-acento-botones
+        LineaTiempoD.color-acento-botones.especial
           p(numero="1" titulo="Relevancia") 
             | Evalúa si la información responde a la necesidad de búsqueda y si puede ser aplicada al tema de estudio.
             | Tener en cuenta:

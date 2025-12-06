@@ -30,7 +30,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema7/img03.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 El liderazgo colectivo implica gestionar la diversidad de la comunidad y promover una influencia positiva en el territorio. No se trata de imponer acciones, sino de fortalecer las capacidades personales y comunitarias para que surjan sinergias entre distintos liderazgos. Esta forma de liderazgo favorece la colaboración, la corresponsabilidad y la inclusión social.
+        figure
+          img(src='@/assets/curso/tema7/img10.svg' alt="Imagen decorativa" style="max-width:75px")
+          br
+          | El liderazgo colectivo implica gestionar la diversidad de la comunidad y promover una influencia positiva en el territorio. No se trata de imponer acciones, sino de fortalecer las capacidades personales y comunitarias para que surjan sinergias entre distintos liderazgos. Esta forma de liderazgo favorece la colaboración, la corresponsabilidad y la inclusión social.
 
     separador
     #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")

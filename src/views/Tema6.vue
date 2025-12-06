@@ -37,7 +37,7 @@
           .row.justify-content-center
             .col-xl-8.col-10
               img(src='@/assets/curso/tema6/img03.svg' alt="Imagen decorativa").m-auto
-      .col-lg-8(data-aos="fade-left")
+      .col-lg-10(data-aos="fade-left")
         .BG01.p-4.h-100
           p.mb-0 En el mapeo de actores es fundamental identificar los roles y los niveles de poder de los actores sociales más relevantes. Reconocer estas dinámicas permite comprender las relaciones de influencia, cooperación o conflicto dentro del territorio y facilita una adecuada toma de decisiones en los procesos de intervención.
 
@@ -50,7 +50,10 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema6/img04.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 El mapa de actores permite identificar las funciones que desempeña cada actor, así como los objetivos que guían sus acciones en relación con las dinámicas del territorio. Además, facilita proyectar posibles acciones futuras, establecer redes de cooperación y perfilar alianzas interinstitucionales que fortalezcan la propuesta de intervención.
+        figure
+          img(src='@/assets/curso/tema6/img09.svg' alt="Imagen decorativa" style="max-width:75px")
+          br
+          | El mapa de actores permite identificar las funciones que desempeña cada actor, así como los objetivos que guían sus acciones en relación con las dinámicas del territorio. Además, facilita proyectar posibles acciones futuras, establecer redes de cooperación y perfilar alianzas interinstitucionales que fortalezcan la propuesta de intervención.
 
     separador
     #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")

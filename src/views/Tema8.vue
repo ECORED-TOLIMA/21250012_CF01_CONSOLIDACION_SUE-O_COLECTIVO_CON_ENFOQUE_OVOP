@@ -8,12 +8,10 @@
       h1 Cartografía social
     
     .row.justify-content-center.mb-4
-      .col-lg-3.col-sm-4.col-6.mb-lg-0.mb-4.px-0(data-aos="fade-right")
+      .col-lg-2.col-sm-4.col-6.mb-lg-0.mb-4.px-0(data-aos="fade-right")
         .BG09.p-2.h-100
-          .row.justify-content-center
-            .col-10
-              img(src='@/assets/curso/tema8/img01.svg' alt="Imagen decorativa")
-      .col-lg-9.px-0(data-aos="fade-left")
+          img(src='@/assets/curso/tema8/img01.svg' alt="Imagen decorativa")
+      .col-lg-10.px-0(data-aos="fade-left")
         .BG01.p-4.h-100
           p.mb-0 La cartografía social es una herramienta participativa que permite construir conocimiento colectivo sobre un territorio. Facilita que una comunidad se acerque a su espacio geográfico, social, económico, histórico y cultural a través de la elaboración colaborativa de mapas. Este proceso promueve el diálogo, evidencia distintos saberes y permite construir una visión compartida del territorio, integrando perspectivas diversas para fortalecer la reflexión y la acción colectiva.
 

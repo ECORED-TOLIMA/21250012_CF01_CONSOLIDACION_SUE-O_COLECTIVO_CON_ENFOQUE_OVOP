@@ -53,7 +53,7 @@
   background-image: url("../assets/curso/portada/img01.png") !important
 
 .banner-principal__row .banner-principal__img
-  width: 33%
+  width: 40%
   
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: #12263F
@@ -162,17 +162,24 @@
 .img90
   width: 90px
 
-.linea-tiempo-d .tarjeta
-  background-color: #C5CBBD
-
-.linea-tiempo-d__item__number
+.pasos-b__header__btn--right, .pasos-b__header__btn--left
   background-color: #FAA159
 
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title, .linea-tiempo-d__item__content__slot
-  background-color: #F3F9FF
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #FFD600
+  background-color: #FFD600
 
-.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
-  border-radius: 5px 0
+.linea-tiempo-d.color-acento-botones.especial
+  .linea-tiempo-d__item--selected
+    .linea-tiempo-d__item__content
+      background-color: #F3F9FF !important 
+    .tarjeta.tarjeta--gris
+      background-color: #FEE3CD
+      color: #000 !important
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #C5CBBD
+.tarjeta.tarjeta--gris
+  background-color: #FAA159
 
-.linea-tiempo-d__item__content__slot
-  border-radius: 0 5px
+.pasos-b__header__item__dot i
+  color: $color-sistema-texto
