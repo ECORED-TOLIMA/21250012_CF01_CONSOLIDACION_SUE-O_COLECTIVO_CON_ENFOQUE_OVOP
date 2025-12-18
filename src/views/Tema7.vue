@@ -48,56 +48,56 @@
             ul.lista-ul--color.mb-0
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Entiende la dinámica social, la historia, la cultura, los recursos naturales y las necesidades de su comunidad.
+                p.mb-0 Entiende la dinámica social, la historia, la cultura, los recursos naturales y las necesidades de su comunidad.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Organiza y sensibiliza a las personas según sus habilidades, fomentando apoyos mutuos en coherencia con los principios de OVOP.
+                p.mb-0 Organiza y sensibiliza a las personas según sus habilidades, fomentando apoyos mutuos en coherencia con los principios de OVOP.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Se comunica de manera adecuada y retroalimenta a la comunidad.
+                p.mb-0 Se comunica de manera adecuada y retroalimenta a la comunidad.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Estimula positivamente la participación y las acciones colectivas.
+                p.mb-0 Estimula positivamente la participación y las acciones colectivas.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Promueve actividades de integración con otras comunidades.
+                p.mb-0 Promueve actividades de integración con otras comunidades.
           div(titulo="Líder empresarial")
             ul.lista-ul--color.mb-0
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Impulsa procesos de innovación y diversificación en productos o servicios.
+                p.mb-0 Impulsa procesos de innovación y diversificación en productos o servicios.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Tiene visión a largo plazo sobre el territorio y sus potencialidades.
+                p.mb-0 Tiene visión a largo plazo sobre el territorio y sus potencialidades.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Desarrolla estrategias para posicionar productos o servicios (#[i marketing] territorial).
+                p.mb-0 Desarrolla estrategias para posicionar productos o servicios (#[i marketing] territorial).
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Diseña estrategias, administra recursos y gestiona alternativas para superar obstáculos.
+                p.mb-0 Diseña estrategias, administra recursos y gestiona alternativas para superar obstáculos.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Actúa con transparencia y credibilidad.
+                p.mb-0 Actúa con transparencia y credibilidad.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Cuenta con conocimientos especializados en sectores específicos, como turismo o producción agropecuaria.
+                p.mb-0 Cuenta con conocimientos especializados en sectores específicos, como turismo o producción agropecuaria.
           div(titulo="Líder institucional")
             ul.lista-ul--color.mb-0
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Posee credibilidad ante entidades públicas y privadas, y conoce los procedimientos institucionales.
+                p.mb-0 Posee credibilidad ante entidades públicas y privadas, y conoce los procedimientos institucionales.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Facilita acuerdos y negociaciones que beneficien a la comunidad.
+                p.mb-0 Facilita acuerdos y negociaciones que beneficien a la comunidad.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Genera empatía y confianza con instituciones.
+                p.mb-0 Genera empatía y confianza con instituciones.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Asume responsabilidades institucionales, como la corresponsabilidad en los procesos de desarrollo.
+                p.mb-0 Asume responsabilidades institucionales, como la corresponsabilidad en los procesos de desarrollo.
               li(style="margin-bottom: 2px")
                 i.fas.fa-circle-notch
-                | Reconoce el valor de la institucionalidad para el fortalecimiento territorial.
+                p.mb-0 Reconoce el valor de la institucionalidad para el fortalecimiento territorial.
       .col-lg-4.col-sm-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema7/img04.jpg' alt="Imagen decorativa")
 

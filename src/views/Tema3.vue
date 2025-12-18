@@ -155,8 +155,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-secundario(data-aos="fade-right")
-          h5 Tabla 1.
-          i Pilares del enfoque Mi Pueblo, Mi Producto, Mi Orgullo
+          h5 Tabla 2.
+          i Fases y pasos de la metodología OVOP Colombia
         .tabla-a.color-acento-contenido
           table(data-aos="zoom-in"  alt="Texto alternativo tabla")
             caption Fuente. <span style="font-weight: 400">SENA, JICA (2020). Estrategia de desarrollo local incluyente OVOP Colombia – Documento Estratégico. Versión 02.</span>

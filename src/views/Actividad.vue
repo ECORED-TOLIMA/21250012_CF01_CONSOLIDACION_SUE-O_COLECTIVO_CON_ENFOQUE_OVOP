@@ -16,7 +16,7 @@ export default {
       tema: '¿Qué entendemos por OVOP?',
       titulo: 'Cuestionario',
       introduccion:
-        'Objetivo, evaluar la comprensión de los aprendices sobre conceptos clave de OVOP, desarrollo endógeno, territorio, fuentes de información, mapa de actores, cartografía social, mediante preguntas de verdadero o falso para reforzar el aprendizaje.',
+        'Objetivo: evaluar la comprensión de los aprendices sobre conceptos clave de OVOP, desarrollo endógeno, territorio, fuentes de información, mapa de actores, cartografía social, mediante preguntas de verdadero o falso para reforzar el aprendizaje.',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -52,7 +52,7 @@ export default {
         {
           id: 3,
           texto:
-            'OVOP Colombia – Mi Pueblo, Mi Producto, Mi Orgullo, tiene como propósito fortalecer la cohesión social y autonomía económica de las comunidades donde están las iniciativas OVOP para revitalizar los territorios y contribuir a la paz en Colombia',
+            'OVOP Colombia – Mi Pueblo, Mi Producto, Mi Orgullo, tiene como propósito fortalecer la cohesión social y autonomía económica de las comunidades donde están las iniciativas OVOP para revitalizar los territorios y contribuir a la paz en Colombia.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -97,7 +97,7 @@ export default {
         {
           id: 6,
           texto:
-            'Las dimensiones del contexto territorial son, ambiental, social, económica y política',
+            'Las dimensiones del contexto territorial son, ambiental, social, económica y política.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -112,7 +112,7 @@ export default {
         {
           id: 7,
           texto:
-            'Las fuentes de información son documentos que se consultan para obtener datos de un tema sobre el que se quiere saber más',
+            'Las fuentes de información son documentos que se consultan para obtener datos de un tema sobre el que se quiere saber más.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -127,7 +127,7 @@ export default {
         {
           id: 8,
           texto:
-            'Las fuentes de información se pueden clasificar en dos tipos: secundarias y terciarias',
+            'Las fuentes de información se pueden clasificar en dos tipos: secundarias y terciarias.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -157,7 +157,7 @@ export default {
         {
           id: 10,
           texto:
-            'La fiabilidad de una fuente de información es aquella que se considera no creíble, no precisa y poco digna de confianza para obtener datos',
+            'La fiabilidad de una fuente de información es aquella que se considera no creíble, no precisa y poco digna de confianza para obtener datos.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
@@ -172,7 +172,7 @@ export default {
         {
           id: 11,
           texto:
-            'Encuestas, entrevistas, cuestionarios, hojas de registro son algunas de las herramientas para el levantamiento de información ',
+            'Encuestas, entrevistas, cuestionarios, hojas de registro son algunas de las herramientas para el levantamiento de información.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -217,7 +217,7 @@ export default {
         {
           id: 14,
           texto:
-            'En el mapa de actores se deben identificar roles, funciones y relaciones de los actores del territorio',
+            'En el mapa de actores se deben identificar roles, funciones y relaciones de los actores del territorio.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -247,7 +247,7 @@ export default {
         {
           id: 16,
           texto:
-            'La cartografía social es una herramienta que sirve para construir conocimiento de manera colectiva; es un acercamiento de la comunidad a su espacio geográfico, social, económico, histórico y cultural',
+            'La cartografía social es una herramienta que sirve para construir conocimiento de manera colectiva; es un acercamiento de la comunidad a su espacio geográfico, social, económico, histórico y cultural.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -262,7 +262,7 @@ export default {
         {
           id: 17,
           texto:
-            'La cartografía social exige una concertación previa que defina el sentido o énfasis del mapa de acuerdo con las necesidades',
+            'La cartografía social exige una concertación previa que defina el sentido o énfasis del mapa de acuerdo con las necesidades.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -277,7 +277,7 @@ export default {
         {
           id: 18,
           texto:
-            'Se pueden elaborar mapas del pasado, del presente y del futuro, así como mapas temáticos que nos permitan un mayor conocimiento del entorno',
+            'Se pueden elaborar mapas del pasado, del presente y del futuro, así como mapas temáticos que nos permitan un mayor conocimiento del entorno.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

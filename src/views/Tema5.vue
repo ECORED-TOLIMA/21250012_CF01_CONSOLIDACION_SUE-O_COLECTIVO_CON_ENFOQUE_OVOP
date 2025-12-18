@@ -56,7 +56,7 @@
 
     separador
     #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 5.3 Tipos
+      h2 5.3 Criterios de uso
     
     p.mb-5 El método #[strong CRAAP] propone cinco criterios para evaluar la calidad de las fuentes de información: #[strong actualidad, relevancia, autoridad, exactitud y propósito.] Su aplicación facilita determinar si un recurso es confiable y adecuado para una investigación.
 

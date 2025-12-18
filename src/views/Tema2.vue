@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
         span 2
-      h1 Enfoque One Village, One Product
+      h1 Enfoque One Village, One Product (OVOP)
     
     p.mb-5 El enfoque #[strong One Village, One Product (OVOP)] promueve el fortalecimiento del orgullo, el amor y la identidad comunitaria mediante la identificación y valorización de productos únicos que son reconocidos como propios y originarios del territorio. Este enfoque impulsa la mejora en la comercialización de dichos productos y fomenta el trabajo colectivo y colaborativo como medio para alcanzar un objetivo común. Su propósito es contribuir a la revitalización del territorio, fortalecer la cohesión social y promover un desarrollo local incluyente, sustentado en las capacidades, tradiciones y potencialidades de cada comunidad.
 
@@ -15,9 +15,9 @@
           h5 Figura 1.
           i Presencia Mundial del Movimiento One Village, One Product
         figure.d-lg-flex.d-none(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img01.svg' alt="El enfoque One Village, One Product (OVOP) promueve el fortalecimiento del orgullo, el amor y la identidad comunitaria mediante la identificación y valorización de productos únicos que son reconocidos como propios y originarios del territorio. Este enfoque impulsa la mejora en la comercialización de dichos productos y fomenta el trabajo colectivo y colaborativo como medio para alcanzar un objetivo común. Su propósito es contribuir a la revitalización del territorio, fortalecer la cohesión social y promover un desarrollo local incluyente, sustentado en las capacidades, tradiciones y potencialidades de cada comunidad.")
+          img(src='@/assets/curso/tema2/img01.svg' alt="Mapa mundial con los países donde se ha implementado el movimiento One Village, One Product. ")
         figure.d-lg-none.d-flex(data-aos="zoom-in")
-          img(src='@/assets/curso/tema2/img01a.svg' alt="El enfoque One Village, One Product (OVOP) promueve el fortalecimiento del orgullo, el amor y la identidad comunitaria mediante la identificación y valorización de productos únicos que son reconocidos como propios y originarios del territorio. Este enfoque impulsa la mejora en la comercialización de dichos productos y fomenta el trabajo colectivo y colaborativo como medio para alcanzar un objetivo común. Su propósito es contribuir a la revitalización del territorio, fortalecer la cohesión social y promover un desarrollo local incluyente, sustentado en las capacidades, tradiciones y potencialidades de cada comunidad.")
+          img(src='@/assets/curso/tema2/img01a.svg' alt="Mapa mundial con los países donde se ha implementado el movimiento One Village, One Product. ")
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")

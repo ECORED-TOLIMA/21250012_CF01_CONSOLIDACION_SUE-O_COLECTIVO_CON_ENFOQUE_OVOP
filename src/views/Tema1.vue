@@ -83,7 +83,7 @@
                   | Fomenta la autonomía y la toma de decisiones informada.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
-                  | Fortalece la cohesión social y la identidad territoria.
+                  | Fortalece la cohesión social y la identidad territorial.
                 li(style="margin-bottom: 2px")
                   i.fas.fa-circle-notch
                   | Promueve el uso sostenible de los recursos disponibles.
